@@ -6,11 +6,23 @@ I graduated from Le Wagon bootcamp in March 2023 🎓 and I'm looking forward to
 
 🔭 I’m currently working on personal projects: wed-app as I'm getting married in 2024! 💍🥳 and an automated booking-solution for my husband-to-be's company that accomodates private cruises on the Seine River ⛵⚓ checkout @MyParisRiver
 
-💬 Ask me about etymology, I am passionate about languages, idioms (
+💬 Ask me about etymology, I am passionate about languages & idioms (no wonder I wanted to learn a programming language! 😜)
 
 📫 How to reach me: 
-(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/audrey-guigo/)
+<br>
+<br>
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/audrey-guigo/)) 
 
+⚡ Fun facts: did you know that...
+<br>
+Dunce before becoming the derogatory name we know was a person named John Duns Scotus? We are all someone's dunce! 🤪
+<br>
+<br>
+Budget originally comes from "bougette", a word used in the Middle-Ages in France 🇫🇷 to refer to a little bag that contained money 💰 it was borrowed by the English 🇬🇧 as "budget" and then came back to France where we now have the word "budget" while bougette has disappeared! 😮
+<br>
+<br>
+👨‍💻 Technical stack
 
-⚡ Fun fact: ...
+[![My Skills](https://skills.thijs.gg/icons?i=ruby,rails,css,nodejs,git,html,figma&theme=light)](https://skills.thijs.gg)
 
+ 
